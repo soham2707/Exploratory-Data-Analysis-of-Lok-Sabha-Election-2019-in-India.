@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-of-Lok-Sabha-Election-2019-in-India 🇮🇳 Flag: India
+# Exploratory-Data-Analysis-of-Lok-Sabha-Election-2019-in-India :india:
 
 The Lok Sabha, or House of the People, is the lower house of India’s bicameral Parliament, with the upper house being the Rajya Sabha. Members of the Lok Sabha are elected by an adult universal suffrage and a first-past-the-post system to represent their respective constituencies, and they hold their seats for five years or until the body is dissolved by the President on the advice of the council of ministers. The house meets in the Lok Sabha Chambers of the Sansad Bhavan, New Delhi.
 
