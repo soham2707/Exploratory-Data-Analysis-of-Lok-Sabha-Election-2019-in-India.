@@ -32,9 +32,8 @@ DEVELOPERS
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Soham-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/soham-nandi-b39288215/) 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Randrita-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pinaki-subhra-bhattacharya-1a6566217/) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pinaki-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pinaki-subhra-bhattacharya-1a6566217/) 
 
-![End]
 
 Blog:
 ----
