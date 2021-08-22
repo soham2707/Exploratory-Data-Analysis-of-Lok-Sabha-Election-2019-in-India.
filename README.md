@@ -21,6 +21,21 @@ Interesting Results:
 
 [Age vs Crime vs Winner vs Gender vs Category vs State vs Party vs Education](https://chart-studio.plotly.com/~soham27/1)
 
+DEVELOPERS
+------
+<!--
+<p align="left">
+    <a href="https://www.linkedin.com/in/soham-nandi-b39288215/" target="_blank"><u>Soham Nandi</u></a>
+<a href="https://www.linkedin.com/in/pinaki-subhra-bhattacharya-1a6566217/" target="_blank"><u>Pinaki Subhra Bhattacharya </u></a> <br>
+</p>
+-->
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Soham-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/soham-nandi-b39288215/) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Randrita-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pinaki-subhra-bhattacharya-1a6566217/) 
+
+![End]
+
 Blog:
 ----
 
