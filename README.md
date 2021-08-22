@@ -13,3 +13,27 @@ The Bharatiya Janata Party received 37.36% of the vote and won 303 seats, furthe
   </p>
   
  One of the most critical ways that individuals can influence governmental decision-making is through voting. We know that everyone has the right to vote in our country. But many people are not aware of politics. So by this project, we can learn about the different political parties, their background history, and their recent success and failure in the Lok Sabha election 2019 in India. Unfortunately, we have found few candidates with criminal history also. So through this data analysis, we can be aware of the candidate’s history and the nature of the political party. We can learn about the winning party and their success in 2019. In this work, we will mainly focus on STATE, WINNER, PARTY, GENDER, CRIMINAL CASES, AGE, CATEGORY, EDUCATION.
+
+
+Interesting Results:
+-----
+[Educational Qualification Among Different Ages of Candidates](https://chart-studio.plotly.com/~soham27/10)
+
+[Age vs Crime vs Winner vs Gender vs Category vs State vs Party vs Education](https://chart-studio.plotly.com/~soham27/1)
+
+Blog:
+----
+
+Check out my Medium article ,where I have explained in detail.
+
+[Blog Link](https://nandisoham2017.medium.com/exploratory-data-analysis-of-lok-sabha-election-2019-in-india-f73762268bd8)
+
+
+
+
+
+
+
+
+
+
